@@ -1,13 +1,19 @@
-[<img height="50px" src="https://www.ofx.com/assets/img/ofx_logo_orange.png">](https://www.ofx.com/assets/img/ofx_logo_orange.png)
 
 ##Summary
-[Why does this repo exist]
+Creates a yeo generator for creating README files from a template
 
 ## Setup
-[Describe how to setup the dev environment]
+```bash
+npm install --global yo
+
+# from generator-readme directory, open a command line 
+# e.g. /users/me/Projects/generator-readme on Unix style
+# e.g. C:\Users\Me\Projects\generator-readme on Windows 
+yo readme
+```
 
 ## Contributing
-[Describe dev lifecycle: Creating PRs, Who can approve etc]
+Feel free to fork and extend
 
 ## Contact
-[Tech lead/Maintainer contact]
+Twitter: @sudhanshutheone
